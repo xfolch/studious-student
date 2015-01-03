@@ -1,7 +1,7 @@
 Practice - Studious Student
 ===========================
 
-Studious Student is an exercise proposed as a kata in the Barcelona SW Craftsmanship on December 2th, 2014.
+Studious Student is an exercise proposed as a kata in the Barcelona SW Craftsmanship by Leo Antoli on December 2th, 2014.
 
 Description
 -----------
