@@ -26,19 +26,19 @@ Example
 
 ### Input
 
-5
-6 facebook hacker cup for studious students
-5 k duz q rc lvraw
-5 mybea zdr yubx xe dyroiy
-5 jibw ji jp bw jibw
+5<br/>
+6 facebook hacker cup for studious students<br/>
+5 k duz q rc lvraw<br/>
+5 mybea zdr yubx xe dyroiy<br/>
+5 jibw ji jp bw jibw<br/>
 5 uiuy hopji li j dcyi
 
 ### Output
 
-cupfacebookforhackerstudentsstudious
-duzklvrawqrc
-dyroiymybeaxeyubxzdr
-bwjijibwjibwjp
+cupfacebookforhackerstudentsstudious<br/>
+duzklvrawqrc<br/>
+dyroiymybeaxeyubxzdr<br/>
+bwjijibwjibwjp<br/>
 dcyihopjijliuiuy
 
 Original Link
